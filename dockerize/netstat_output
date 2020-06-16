@@ -1,0 +1,33 @@
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 127.0.0.1:5939          0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.53:53           0.0.0.0:*               LISTEN      -                   
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      -                   
+tcp        0      0 0.0.0.0:800             0.0.0.0:*               LISTEN      -                   
+tcp        0      0 0.0.0.0:17000           0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:3306          0.0.0.0:*               LISTEN      -                   
+tcp        0      0 0.0.0.0:80              0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:3306          127.0.0.1:50092         ESTABLISHED -                   
+tcp        0      0 192.168.0.112:60964     52.40.47.101:443        ESTABLISHED 26023/firefox       
+tcp6       0      0 :::22                   :::*                    LISTEN      -                   
+tcp6       0      0 ::1:631                 :::*                    LISTEN      -                   
+tcp6       0      0 :::11000                :::*                    LISTEN      -                   
+tcp6       0      0 127.0.0.1:8888          :::*                    LISTEN      9299/java           
+tcp6       0      0 127.0.0.1:39807         :::*                    LISTEN      9299/java           
+tcp6       0      0 :::8000                 :::*                    LISTEN      -                   
+tcp6       0      0 127.0.0.1:8005          :::*                    LISTEN      -                   
+tcp6       0      0 :::8009                 :::*                    LISTEN      -                   
+tcp6       0      0 :::8080                 :::*                    LISTEN      -                   
+tcp6       0      0 2601:19c:4800:eeb:40654 2607:f8b0:4006:81b::443 ESTABLISHED 26023/firefox       
+tcp6       0      0 127.0.0.1:50092         127.0.0.1:3306          ESTABLISHED -                   
+tcp6       0      0 2601:19c:4800:eeb:59720 2607:f8b0:4006:819:::80 ESTABLISHED 26023/firefox       
+tcp6       1      0 172.17.0.1:58600        172.17.0.1:80           CLOSE_WAIT  -                   
+tcp6       1      0 172.17.0.1:58608        172.17.0.1:80           CLOSE_WAIT  -                   
+udp        0      0 0.0.0.0:45229           0.0.0.0:*                           -                   
+udp        0      0 0.0.0.0:5353            0.0.0.0:*                           -                   
+udp        0      0 127.0.0.53:53           0.0.0.0:*                           -                   
+udp        0      0 0.0.0.0:68              0.0.0.0:*                           -                   
+udp        0      0 0.0.0.0:631             0.0.0.0:*                           -                   
+udp6       0      0 :::5353                 :::*                                -                   
+udp6       0      0 :::59068                :::*                                -                   
