@@ -9,6 +9,5 @@ In this paper, we present a novel defense approach to protect internal services 
 flaws, they are usually still affected by important security and functionality limitations. In this work, we develop a prototype based on the proposed approach by extending the functionality of a popular reverse proxy application and deploy a set of vulnerable web applications with that prototype. We demonstrate how SSRF attacks on these applications, with almost no loss of performance, are prevented.
 
 ### Description of the files
-[prevent-ssrf.lua](https://github.com/bahruzjabiyev/prevent-ssrf/blob/master/prevent-ssrf.lua) - NGINX extension code
-
-[dockerize](https://github.com/bahruzjabiyev/prevent-ssrf/tree/master/dockerize) - Files needed for the "helper server" image
+- [prevent-ssrf.lua](https://github.com/bahruzjabiyev/prevent-ssrf/blob/master/prevent-ssrf.lua) - NGINX extension code
+- [dockerize](https://github.com/bahruzjabiyev/prevent-ssrf/tree/master/dockerize) - Files needed for the "helper server" image
