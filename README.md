@@ -10,4 +10,5 @@ flaws, they are usually still affected by important security and functionality l
 
 ### Description of the files
 [prevent-ssrf.lua](https://github.com/bahruzjabiyev/prevent-ssrf/blob/master/prevent-ssrf.lua) - NGINX extension code
+
 [dockerize](https://github.com/bahruzjabiyev/prevent-ssrf/tree/master/dockerize) - Files needed for the "helper server" image
